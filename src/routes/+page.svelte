@@ -2,6 +2,7 @@
 	import { DotLottieSvelte } from '@lottiefiles/dotlottie-svelte';
 	import AiSection from '../components/AiSection.svelte';
 	import CollaborateSection from '../components/CollaborateSection.svelte';
+	import StorySection from '../components/StorySection.svelte';
 </script>
 
 <div class="w-full px-[20px] lg:px-[70px]">
@@ -29,4 +30,5 @@
 	</div>
 	<CollaborateSection />
 	<AiSection />
+	<StorySection />
 </div>
