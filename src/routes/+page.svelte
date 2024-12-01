@@ -3,12 +3,13 @@
 	import AiSection from '../components/AiSection.svelte';
 	import CollaborateSection from '../components/CollaborateSection.svelte';
 	import StorySection from '../components/StorySection.svelte';
+	import SolutionSection from '../components/SolutionSection.svelte';
 </script>
 
 <div class="w-full px-[20px] lg:px-[70px]">
 	<div class="flex flex-col items-center pt-[11px] md:pt-[47px] lg:pt-[119px]">
 		<span
-			class="font-grotesque w-[276px] text-center text-[40px] font-medium leading-normal text-black sm:w-full md:w-full md:text-[50px] lg:text-[84px]"
+			class="font-grotesque w-[276px] text-center text-[40px] font-medium leading-normal text-black sm:w-full md:w-full md:text-5xl lg:text-7xl"
 		>
 			Stress Less, Care More.
 		</span>
@@ -31,4 +32,6 @@
 	<CollaborateSection />
 	<AiSection />
 	<StorySection />
+	<SolutionSection />
+	
 </div>

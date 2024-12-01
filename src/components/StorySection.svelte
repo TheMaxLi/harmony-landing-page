@@ -4,7 +4,7 @@
 			<!-- Heading Section -->
 			<div class="w-full space-y-4">
 				<h1
-					class="font-grotesque text-4xl font-medium leading-tight text-[#1e1e1e] md:text-6xl lg:text-8xl"
+					class="font-grotesque text-4xl font-medium leading-tight text-[#1e1e1e] md:text-5xl lg:text-7xl"
 				>
 					Real Stories, Real Care.
 				</h1>
