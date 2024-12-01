@@ -1,5 +1,5 @@
 <script>
-	import NavHarmonyLogo from './NavHarmonyLogo.svelte';
+	import NavHarmonyLogo from './icons/NavHarmonyLogo.svelte';
 </script>
 
 <div

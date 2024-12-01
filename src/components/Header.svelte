@@ -1,6 +1,6 @@
 <script lang="ts">
-	import HarmonyLogo from './HarmonyLogo.svelte';
-	import MenuIcon from './MenuIcon.svelte';
+	import HarmonyLogo from './icons/HarmonyLogo.svelte';
+	import MenuIcon from './icons/MenuIcon.svelte';
 </script>
 
 <div
