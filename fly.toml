@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for harmony-landing-long-star-8688 on 2024-12-01T00:54:12-08:00
+# fly.toml app configuration file generated for landing-page-nameless-dawn-1632 on 2024-12-01T01:03:51-08:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'harmony-landing-long-star-8688'
+app = 'landing-page-nameless-dawn-1632'
 primary_region = 'sea'
 
 [build]
