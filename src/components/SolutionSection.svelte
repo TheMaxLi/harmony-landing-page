@@ -6,7 +6,7 @@
 </script>
 
 <div class="w-full py-12">
-	<div class="mx-auto max-w-7xl">
+	<div class="mx-auto">
 		<div class="flex flex-col space-y-8">
 			<!-- Heading Section -->
 			<div class="w-full space-y-4">

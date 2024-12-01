@@ -5,7 +5,7 @@
 	let { children } = $props();
 </script>
 
-<div class="w-full">
+<div class="flex w-full flex-col items-center ">
 	<Header />
 	{@render children()}
 </div>

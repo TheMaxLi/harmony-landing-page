@@ -32,7 +32,7 @@
 		</div>
 	</div>
 	<div class="relative h-full max-h-[330px] w-auto md:max-h-full">
-		<div class="h-full w-auto">
+		<div class="h-full w-full">
 			<DotLottieSvelte src="/animation/ai_chat_animation.lottie" loop autoplay />
 		</div>
 	</div>

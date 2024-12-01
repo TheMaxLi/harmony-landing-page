@@ -1,4 +1,4 @@
-<div class=" mt-3 flex flex-col gap-[20px] md:flex-row md:gap-[26px]">
+<div class=" mt-3 flex w-full flex-col justify-between md:flex-row">
 	<div class="relative aspect-square">
 		<img
 			src="/collaborateSeamlessly.png"
