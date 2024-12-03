@@ -7,12 +7,14 @@
 >
 	<div class="mx-auto w-full max-w-7xl">
 		<div
-			class="flex w-full flex-col items-start justify-between space-y-8 md:flex-row md:space-y-0"
+			class="flex w-full flex-col items-start justify-between space-y-8 lg:flex-row lg:space-y-0"
 		>
 			<!-- Logo Section -->
 			<div class="flex w-full flex-col items-start space-y-6 md:w-auto">
 				<div class="flex items-center justify-center gap-4">
-					<NavHarmonyLogo />
+					<NavHarmonyLogo
+						className="lg:w-[101px] lg:h-[76px] md:w-[68.63px] md:h-[51.01px] w-[43.11px] h-[32.04px]"
+					/>
 					<div class="font-sf-pro text-4xl font-medium text-[#1e1e1e] md:text-5xl lg:text-7xl">
 						Harmony
 					</div>
@@ -25,7 +27,7 @@
 
 			<!-- Footer Links Section -->
 			<div
-				class="flex w-full flex-row justify-between space-x-8 md:w-auto md:justify-normal md:space-x-16"
+				class="flex w-full flex-row justify-between space-x-8 lg:w-auto lg:justify-normal lg:space-x-[160px]"
 			>
 				<!-- Find Us At Column -->
 				<div class="flex flex-col space-y-4">
