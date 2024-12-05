@@ -31,7 +31,7 @@
 							I need to feel in control.
 						</p>
 						<p class="font-sf-pro text-sm text-black/50">
-							First Last — Age, Job Title and Caregiver
+							Dana Thomas — 42, Housekeeper and Caregiver
 						</p>
 					</div>
 				</div>
@@ -51,7 +51,7 @@
 							Harmony AI would have made it so much easier for him.
 						</p>
 						<p class="font-sf-pro text-sm text-black/50">
-							First Last — 37, Office Worker and Caregiver
+							Dave Kaufman — 28, Office Worker and Caregiver
 						</p>
 					</div>
 				</div>

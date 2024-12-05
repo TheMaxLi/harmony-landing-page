@@ -15,7 +15,7 @@
 					<NavHarmonyLogo
 						className="lg:w-[101px] lg:h-[76px] md:w-[68.63px] md:h-[51.01px] w-[43.11px] h-[32.04px]"
 					/>
-					<div class="font-sf-pro text-4xl font-medium text-[#1e1e1e] md:text-5xl lg:text-7xl">
+					<div class="font-grotesque text-4xl font-medium text-[#1e1e1e] md:text-5xl lg:text-7xl">
 						Harmony
 					</div>
 				</div>
