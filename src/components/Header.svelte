@@ -12,14 +12,31 @@
 			Harmony
 		</div>
 	</div>
+
 	<div class="flex h-[60px] items-center justify-between">
 		<div class="flex items-center justify-start gap-[60px]">
-			<div class="hidden font-grotesque text-3xl font-medium text-[#1e1e1e] lg:block">About</div>
-			<div class="hidden font-grotesque text-3xl font-medium text-[#1e1e1e] lg:block">Blog</div>
+			<a
+				target="_blank"
+				href="https://harmony-blog-next.vercel.app/about"
+				class="hidden font-grotesque text-3xl font-medium text-[#1e1e1e] hover:text-gray-600 lg:block"
+			>
+				About
+			</a>
+			<a
+				target="_blank"
+				href="https://harmony-blog-next.vercel.app/"
+				class="hidden font-grotesque text-3xl font-medium text-[#1e1e1e] hover:text-gray-600 lg:block"
+			>
+				Blog
+			</a>
 			<div
 				class="hidden items-center justify-center rounded-[999px] bg-[#7859ea] px-6 py-3 md:flex"
 			>
-				<div class="text-center font-sf-pro text-2xl text-white">Download Now</div>
+				<a
+					target="_blank"
+					class="text-center font-sf-pro text-2xl text-white hover:bg-[#8668f4]"
+					href="https://harmony-blog-next.vercel.app/">Download Now</a
+				>
 			</div>
 			<div class="items-center justify-center md:hidden">
 				<MenuIcon />

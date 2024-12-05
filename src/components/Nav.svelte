@@ -55,20 +55,22 @@
 					</div>
 					<div class="flex flex-col space-y-2">
 						<a
-							href="#"
+							target="_blank"
+							href="https://harmony-blog-next.vercel.app/about"
 							class="font-sf-pro text-base font-medium text-[#1e1e1e] hover:text-gray-600 md:text-xl"
 							>About</a
 						>
 						<a
-							href="#"
+							target="_blank"
+							href="https://harmony-blog-next.vercel.app/team"
 							class="font-sf-pro text-base font-medium text-[#1e1e1e] hover:text-gray-600 md:text-xl"
 							>Contact Us</a
 						>
-						<a
+						<!-- <a
 							href="#"
 							class="font-sf-pro text-base font-medium text-[#1e1e1e] hover:text-gray-600 md:text-xl"
 							>Harmony AI</a
-						>
+						> -->
 					</div>
 				</div>
 			</div>
