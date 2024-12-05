@@ -12,11 +12,13 @@
 		</div>
 
 		<div class="flex justify-center">
-			<button
-				class="hover:bg-[# focus:outline- rounded-full bg-[#7859ea] px-6 py-3 text-base text-white transition-colors duration-300 focus:ring-2 focus:ring-[#7859ea] focus:ring-opacity-50 md:px-12 md:py-6 md:text-2xl"
-			>
-				Download Now
-			</button>
+			<a href="https://harmony-blog-next.vercel.app/" target="_blank">
+				<button
+					class="hover:bg-[# focus:outline- rounded-full bg-[#7859ea] px-6 py-3 text-base text-white transition-colors duration-300 focus:ring-2 focus:ring-[#7859ea] focus:ring-opacity-50 md:px-12 md:py-6 md:text-2xl"
+				>
+					Download Now
+				</button>
+			</a>
 		</div>
 	</div>
 	<img

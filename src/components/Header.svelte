@@ -29,15 +29,17 @@
 			>
 				Blog
 			</a>
-			<div
-				class="hidden items-center justify-center rounded-[999px] bg-[#7859ea] px-6 py-3 md:flex"
+			<a
+				target="_blank"
+				class="text-center font-sf-pro text-2xl text-white"
+				href="https://harmony-blog-next.vercel.app/"
 			>
-				<a
-					target="_blank"
-					class="text-center font-sf-pro text-2xl text-white hover:bg-[#8668f4]"
-					href="https://harmony-blog-next.vercel.app/">Download Now</a
+				<button
+					class="hidden items-center justify-center rounded-[999px] bg-[#7859ea] px-6 py-3 hover:bg-[#8668f4] md:flex"
 				>
-			</div>
+					Download Now
+				</button>
+			</a>
 			<div class="items-center justify-center md:hidden">
 				<MenuIcon />
 			</div>
