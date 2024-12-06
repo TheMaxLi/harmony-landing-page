@@ -19,10 +19,10 @@
 						Harmony
 					</div>
 				</div>
-				<div class="hidden items-center space-x-4 lg:flex">
+				<!-- <div class="hidden items-center space-x-4 lg:flex">
 					<img src="/googleplay.png" alt="get it on google play store" />
 					<img src="/appstore.png" alt="Download on the apple app store" />
-				</div>
+				</div> -->
 			</div>
 
 			<!-- Footer Links Section -->

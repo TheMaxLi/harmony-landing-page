@@ -31,14 +31,11 @@
 			>
 				Blog
 			</a>
-			<a
-				class="text-center font-sf-pro text-2xl text-white"
-				href="https://harmony-blog-next.vercel.app/"
-			>
+			<a class="text-center font-sf-pro text-2xl text-white" href="https://solid-app.fly.dev/">
 				<button
 					class="hidden items-center justify-center rounded-[999px] bg-[#7859ea] px-6 py-3 hover:bg-[#8668f4] md:flex"
 				>
-					Download Now
+					Try Now
 				</button>
 			</a>
 			<div class="items-center justify-center md:hidden">
@@ -78,11 +75,11 @@
 							Blog
 						</a>
 					</div>
-					<a href="https://harmony-blog-next.vercel.app/" class="font-sf-pro text-2xl">
+					<a href="https://solid-app.fly.dev/" class="font-sf-pro text-2xl">
 						<button
 							class="w-full rounded-[999px] bg-[#7859ea] px-6 py-3 text-white hover:bg-[#8668f4]"
 						>
-							Download Now
+							Try Now
 						</button>
 					</a>
 				</nav>

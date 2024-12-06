@@ -12,11 +12,11 @@
 		</div>
 
 		<div class="flex justify-center">
-			<a href="https://harmony-blog-next.vercel.app/">
+			<a href="https://solid-app.fly.dev/">
 				<button
 					class="hover:bg-[# focus:outline- rounded-full bg-[#7859ea] px-6 py-3 text-base text-white transition-colors duration-300 hover:bg-[#8668f4] focus:ring-2 focus:ring-[#7859ea] focus:ring-opacity-50 md:px-12 md:py-6 md:text-2xl"
 				>
-					Download Now
+					Try Now
 				</button>
 			</a>
 		</div>
